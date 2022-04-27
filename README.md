@@ -413,3 +413,25 @@ git stash pop
 
 -- stash hasn't been dropped
 -- need to do git add to stage files to resolve conflicts even tho you're not commiting yet
+
+
+
+git config
+ConfigParser
+
+~/.gitconfig    user
+./.git/config   project
+
+
+https://docs.python.org/3/c-api/module.html
+https://docs.python.org/3/extending/extending.html
+https://docs.python.org/3/extending/newtypes_tutorial.html
+
+https://github.com/libgit2/libgit2/blob/main/examples/clone.c
+https://github.com/libgit2/pygit2/blob/master/src/pygit2.c
+https://github.com/libgit2/pygit2/blob/master/src/utils.h
+https://github.com/libgit2/pygit2/blob/e2c0fdbfbd7f84374f8c7a3df256547b7ea99192/pygit2/__init__.py
+
+https://docs.python.org/3/c-api/structures.html
+https://docs.python.org/3/c-api/call.html
+https://docs.python.org/3/c-api/structures.html#c.PyGetSetDef
